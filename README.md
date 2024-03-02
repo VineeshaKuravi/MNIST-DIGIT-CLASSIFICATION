@@ -1,4 +1,4 @@
-# MNIST-DIGIT-CLASSIFICATION
+# DIGIT-CLASSIFICATION based on Neural Networks
 The project employs a Recurrent Neural
 Network (RNN) to classify digits using images
 from the MNIST dataset. Leveraging image
